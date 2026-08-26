@@ -1,0 +1,147 @@
+RAG Knowledge Base Assistant
+Type 'exit' to stop.
+
+You: What is the UPI daily limit?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. upi_limits_and_failures.txt
+2. upi_limits_and_failures.txt
+3. upi_limits_and_failures.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+The fictional daily UPI transaction limit is â‚¹1,00,000 per customer. [upi_limits_and_failures.txt]
+You: What documents are required for KYC?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. kyc_requirements.txt
+2. kyc_requirements.txt
+3. savings_account_faq.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+Customers must provide one valid identity document and one valid address document when required for KYC verification [kyc_requirements.txt].
+You: Test the refusal
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. upi_limits_and_failures.txt
+2. upi_limits_and_failures.txt
+3. upi_limits_and_failures.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: What is today's USD–INR exchange rate?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. charges_schedule.txt
+2. fixed_deposit_basics.txt
+3. upi_limits_and_failures.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: You: What are the charges for the Platinum Sapphire card?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. credit_card_types.txt
+2. credit_card_types.txt
+3. debit_card_hotlisting_process.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: What are the eligibility criteria for a loan?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. personal_loan_eligibility.txt
+2. personal_loan_eligibility.txt
+3. personal_loan_eligibility.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: What are the steps for hotlisting a card?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. net_banking_activation.txt
+2. debit_card_hotlisting_process.txt
+3. debit_card_hotlisting_process.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: What is the UPI daily limit?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. upi_limits_and_failures.txt
+2. upi_limits_and_failures.txt
+3. upi_limits_and_failures.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+The fictional daily UPI transaction limit is â‚¹1,00,000 per customer. [upi_limits_and_failures.txt]
+You: What documents are required for KYC?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. kyc_requirements.txt
+2. kyc_requirements.txt
+3. savings_account_faq.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+Customers must provide one valid identity document and one valid address document when required for KYC verification [kyc_requirements.txt].
+You: What are the grievance escalation levels?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. grievance_escalation_matrix.txt
+2. grievance_escalation_matrix.txt
+3. grievance_escalation_matrix.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: What are the charges for the Platinum Sapphire card?
+
+======================================================================
+RETRIEVED SOURCES
+======================================================================
+1. credit_card_types.txt
+2. debit_card_hotlisting_process.txt
+3. credit_card_types.txt
+
+======================================================================
+FINAL ANSWER
+======================================================================
+I don't have that information in my knowledge base — let me connect you to a human agent.
+You: 
