@@ -1,0 +1,10 @@
+Vishal Pandey Bank offers Savings Accounts for personal banking customers.
+The minimum opening balance for a standard Savings Account is ₹1,000.
+Customers can open the account using the bank's fictional digital or branch process.
+A customer must complete KYC before the account becomes fully active.
+The fictional savings interest rate is 4% per year.
+Interest is calculated on the daily closing balance and credited quarterly.
+Customers receive a debit card after successful account activation.
+Internet Banking and UPI can be activated after the account is active.
+The standard monthly account maintenance charge is ₹50 if the balance falls below ₹1,000.
+Customers can contact customer support for account-related questions or complaints.

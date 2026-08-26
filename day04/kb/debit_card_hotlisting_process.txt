@@ -1,0 +1,10 @@
+Vishal Pandey Bank customers should hotlist a debit card immediately if it is lost or stolen.
+A customer can request hotlisting through Internet Banking or the bank's support number.
+The customer must provide the registered mobile number for verification.
+A one-time verification code is sent to the registered mobile number.
+After successful verification, the debit card is blocked immediately.
+A hotlisted card cannot be used for ATM withdrawals or card purchases.
+The bank records the hotlisting request with a unique service reference number.
+Customers should keep the reference number for future communication.
+A replacement debit card can be requested after the original card is hotlisted.
+The fictional replacement card fee is ₹150.

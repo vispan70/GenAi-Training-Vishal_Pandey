@@ -1,0 +1,10 @@
+Vishal Pandey Bank allows customers to raise a grievance through customer support.
+The first level is Customer Support, which handles normal service complaints.
+Customer Support has a fictional resolution target of 2 business days.
+If unresolved, the complaint can be escalated to the Branch Service Manager.
+The Branch Service Manager has a fictional resolution target of 3 business days.
+If the issue remains unresolved, it can be escalated to the Grievance Officer.
+The Grievance Officer has a fictional resolution target of 5 business days.
+Customers should provide the complaint reference number during escalation.
+Each escalation should include a brief description of the unresolved issue.
+Customers can use the final escalation level when the previous level does not resolve the complaint.

@@ -1,0 +1,10 @@
+Vishal Pandey Bank customers can activate Internet Banking after their account is active.
+The customer must have a registered mobile number with the bank.
+Activation requires the customer's account number and customer identification number.
+A verification code is sent to the registered mobile number during activation.
+The customer must create a fictional Internet Banking username and password.
+The password must be changed if the customer suspects unauthorized access.
+Internet Banking can be used to view balances and transaction history.
+Customers can also use Internet Banking to request debit card hotlisting.
+The customer should never share passwords or verification codes with another person.
+Customers can contact support if Internet Banking activation fails repeatedly.

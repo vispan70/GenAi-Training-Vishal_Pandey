@@ -1,0 +1,10 @@
+Vishal Pandey Bank supports UPI transactions for eligible Savings Account customers.
+The fictional daily UPI transaction limit is ₹1,00,000 per customer.
+The maximum fictional UPI transaction count is 20 transactions per day.
+A UPI transaction may fail because of insufficient account balance.
+Transactions may also fail because the daily UPI limit has been reached.
+A temporary technical issue can also cause a UPI transaction to fail.
+Customers should first check their balance and transaction history after a failure.
+If money is debited but the transaction fails, the customer should wait for the status to update.
+The bank's fictional normal reversal period for a failed debit is 2 business days.
+Customers can raise a complaint if the amount is not reversed after 2 business days.

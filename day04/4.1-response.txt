@@ -1,0 +1,8 @@
+for 500 chunks 
+Indexed 20 chunks from 10 documents.
+
+
+
+
+for 100 chunks
+Indexed 103 chunks from 10 documents.

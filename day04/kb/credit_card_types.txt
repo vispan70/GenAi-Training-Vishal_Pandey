@@ -1,0 +1,10 @@
+Vishal Pandey Bank offers three fictional credit card types: Basic, Rewards, and Premium.
+The Basic Card has a fictional annual fee of ₹500.
+The Rewards Card has a fictional annual fee of ₹1,000.
+The Premium Card has a fictional annual fee of ₹2,000.
+The Basic Card provides 1 reward point for every ₹100 spent.
+The Rewards Card provides 2 reward points for every ₹100 spent.
+The Premium Card provides 3 reward points for every ₹100 spent.
+The fictional monthly spending limit is ₹50,000 for Basic, ₹1,00,000 for Rewards, and ₹2,00,000 for Premium.
+Customers must meet the bank's eligibility rules before receiving a credit card.
+The bank may review credit limits periodically based on customer information.

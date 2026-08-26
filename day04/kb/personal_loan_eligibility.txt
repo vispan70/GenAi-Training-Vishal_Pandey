@@ -1,0 +1,10 @@
+Vishal Pandey Bank offers fictional Personal Loans to eligible individual customers.
+The minimum fictional age requirement for a Personal Loan is 21 years.
+The maximum fictional age at loan maturity is 60 years.
+The minimum monthly income required is ₹25,000.
+Customers must provide valid KYC information before loan processing.
+The bank may review income, employment details, and existing financial obligations.
+The fictional Personal Loan amount can range from ₹50,000 to ₹10,00,000.
+The fictional maximum repayment period is 5 years.
+Meeting the basic eligibility criteria does not guarantee loan approval.
+The final decision is made after the bank completes its fictional credit assessment.

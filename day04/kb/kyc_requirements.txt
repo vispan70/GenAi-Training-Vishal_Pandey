@@ -1,0 +1,10 @@
+Vishal Pandey Bank requires customers to complete KYC before full account activation.
+Customers must provide one valid identity document for KYC verification.
+Customers must also provide one valid address document when required.
+The customer's name and date of birth must match the submitted information.
+A registered mobile number is required for customer verification.
+The bank may request additional documents if submitted information is unclear.
+KYC information is reviewed according to the bank's fictional verification process.
+Customers should keep their submitted documents valid and up to date.
+Incomplete KYC can restrict some account services until verification is completed.
+Customers can contact bank support to check the status of a KYC request.

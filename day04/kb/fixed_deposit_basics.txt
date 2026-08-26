@@ -1,0 +1,10 @@
+Vishal Pandey Bank provides fictional Fixed Deposit terms from 6 months to 5 years.
+The minimum amount required to open a Fixed Deposit is ₹5,000.
+Customers can choose the deposit period during the Fixed Deposit creation process.
+The fictional interest rate for a 1-year Fixed Deposit is 6% per year.
+The fictional interest rate for a 3-year Fixed Deposit is 6.5% per year.
+The fictional interest rate for a 5-year Fixed Deposit is 7% per year.
+Interest is calculated according to the selected deposit terms.
+Premature closure may result in a lower applicable interest rate.
+Customers receive the maturity amount in their linked Savings Account.
+The bank provides a fictional Fixed Deposit reference number after creation.

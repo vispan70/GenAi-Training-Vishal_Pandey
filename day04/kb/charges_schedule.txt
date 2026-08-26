@@ -1,0 +1,10 @@
+Vishal Pandey Bank uses a fictional schedule of charges for selected banking services.
+The standard Savings Account maintenance charge is ₹50 per month when the balance is below ₹1,000.
+The fictional debit card replacement charge is ₹150.
+The fictional duplicate account statement charge is ₹50 per request.
+The fictional Internet Banking activation charge is ₹0.
+The fictional UPI transaction charge for standard UPI payments is ₹0.
+The fictional debit card annual maintenance charge is ₹200.
+The fictional failed-cheque charge is ₹100 per occurrence.
+Applicable charges may be deducted directly from the customer's account.
+Customers should check this synthetic charges schedule before requesting chargeable services.
