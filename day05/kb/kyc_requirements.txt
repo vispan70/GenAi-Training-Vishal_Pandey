@@ -1,0 +1,101 @@
+VISHAL PANDEY BANK
+Know Your Customer (KYC) Requirements
+
+Document Type: Customer Compliance Guide
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+OVERVIEW
+
+Know Your Customer (KYC) is the customer identification and verification process used by Vishal Pandey Bank before providing certain banking services.
+
+KYC helps the bank verify customer identity and maintain accurate customer records.
+
+BASIC KYC INFORMATION
+
+Customers may be required to provide:
+
+- Full legal name
+- Date of birth
+- Residential address
+- Mobile number
+- Email address
+- Identity information
+- Tax identification information where applicable
+- Photograph where required
+
+ACCEPTABLE DOCUMENTS
+
+Depending on the applicable process, customers may be asked to provide officially accepted identity and address documents.
+
+Documents must:
+- Be valid
+- Be readable
+- Match the customer's information
+- Satisfy the applicable verification requirements
+
+PAN / TAX INFORMATION
+
+Customers may be required to provide PAN or another applicable tax identifier for relevant banking services and transactions.
+
+DIGITAL KYC
+
+Where supported, Vishal Pandey Bank may offer digital KYC or video-based verification.
+
+Customers must follow the instructions provided through the official banking channel.
+
+Customers should not share KYC documents with unknown individuals or unofficial websites.
+
+ADDRESS VERIFICATION
+
+If the customer's current address differs from the address shown in existing records, additional address verification may be required.
+
+KYC UPDATES
+
+Customers should keep their KYC information up to date.
+
+A KYC update may be required when:
+- Personal information changes
+- Address changes
+- Identification documents expire or require replacement
+- The bank requests periodic verification
+- Regulatory requirements change
+
+NAME CHANGE
+
+If a customer's legal name changes, supporting documentation may be required before bank records can be updated.
+
+MOBILE NUMBER UPDATE
+
+Customers should update their registered mobile number through an authorized Vishal Pandey Bank process.
+
+A verification procedure may be required.
+
+KYC FAILURE
+
+KYC may not be completed if:
+- Documents are unclear
+- Information is inconsistent
+- Required documents are missing
+- Verification cannot be completed
+- Additional information is required
+
+CUSTOMER RESPONSIBILITY
+
+Customers are responsible for providing accurate and current information.
+
+Customers should immediately report suspected misuse of their identity documents.
+
+SECURITY WARNING
+
+Vishal Pandey Bank will not ask customers to disclose confidential authentication credentials such as:
+- ATM PIN
+- UPI PIN
+- OTP
+- CVV
+- Internet banking password
+
+IMPORTANT NOTE
+
+This document is fictional and intended for the Vishal Pandey Bank RAG training project. Actual KYC requirements depend on applicable laws and regulatory requirements.

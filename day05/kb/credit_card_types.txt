@@ -1,0 +1,114 @@
+VISHAL PANDEY BANK
+Credit Card Types and Features
+
+Document Type: Product Information
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+OVERVIEW
+
+Vishal Pandey Bank offers different fictional credit card variants designed for different spending requirements.
+
+1. VISHAL PANDEY BANK CLASSIC CREDIT CARD
+
+The Classic Credit Card is designed for customers looking for a basic credit card for everyday purchases.
+
+Typical features:
+- Domestic transactions
+- Online purchases
+- Contactless payments
+- ATM cash withdrawal subject to applicable terms
+- Monthly statements
+- Reward eligibility according to the card program
+
+Best suited for:
+Customers who primarily need a general-purpose credit card.
+
+2. VISHAL PANDEY BANK REWARDS CREDIT CARD
+
+The Rewards Credit Card is designed for customers who frequently use their card for eligible purchases.
+
+Typical features:
+- Reward points on eligible transactions
+- Online transaction support
+- Contactless payments
+- Monthly statements
+- Reward redemption through supported channels
+
+Reward points may vary by transaction category and merchant type.
+
+3. VISHAL PANDEY BANK TRAVEL CREDIT CARD
+
+The Travel Credit Card is designed for customers who frequently travel.
+
+Typical features:
+- Travel-related reward benefits
+- International transaction support
+- Contactless payments
+- Travel offers where applicable
+- Reward redemption according to program rules
+
+Foreign currency transactions may be subject to applicable foreign exchange conversion charges.
+
+4. VISHAL PANDEY BANK CASHBACK CREDIT CARD
+
+The Cashback Credit Card is designed for customers who prefer cashback benefits instead of traditional reward points.
+
+Eligible transactions may earn cashback according to the applicable cashback program.
+
+Cashback may have:
+- Category restrictions
+- Monthly limits
+- Minimum redemption requirements
+- Exclusions for certain transaction types
+
+5. VISHAL PANDEY BANK PREMIUM CREDIT CARD
+
+The Premium Credit Card is designed for customers seeking enhanced benefits and higher-value rewards.
+
+Possible features include:
+- Enhanced reward earning
+- Travel-related benefits
+- Premium customer support
+- Selected merchant offers
+- Higher credit limits subject to eligibility
+
+Eligibility depends on the customer's credit profile, income, internal bank policy, and other applicable criteria.
+
+CREDIT LIMIT
+
+The credit limit is assigned by Vishal Pandey Bank after evaluating the customer's eligibility and risk profile.
+
+The credit limit is not automatically equal to the customer's income.
+
+CASH WITHDRAWAL
+
+Credit-card cash withdrawals may be permitted subject to:
+- Available cash limit
+- Applicable fees
+- Applicable interest
+- Security restrictions
+
+Customers should review applicable charges before making cash withdrawals.
+
+BILL PAYMENT
+
+Customers should pay at least the minimum amount due by the payment due date.
+
+Paying only the minimum amount may result in interest charges on the remaining outstanding balance.
+
+CARD SECURITY
+
+Customers should never share:
+- PIN
+- CVV
+- OTP
+- Card password
+- Net banking password
+
+Vishal Pandey Bank will never require customers to disclose confidential authentication credentials through unsolicited calls or messages.
+
+IMPORTANT NOTE
+
+All products and features described here are fictional and created for the Vishal Pandey Bank RAG training project.

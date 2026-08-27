@@ -1,0 +1,109 @@
+VISHAL PANDEY BANK
+Fixed Deposit Basics
+
+Document Type: Product Guide
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+OVERVIEW
+
+A Fixed Deposit (FD) allows a customer to deposit a specified amount with Vishal Pandey Bank for a selected tenure at an applicable interest rate.
+
+The deposited amount is generally held until maturity unless the customer requests premature closure according to applicable terms.
+
+KEY FD TERMS
+
+Principal:
+The amount initially deposited into the fixed deposit.
+
+Tenure:
+The period for which the deposit is maintained.
+
+Interest Rate:
+The applicable annualized rate offered for the selected FD product and tenure.
+
+Maturity Date:
+The date on which the FD reaches the end of its selected tenure.
+
+Maturity Amount:
+The principal plus applicable interest, subject to the selected FD type and applicable terms.
+
+ELIGIBILITY
+
+Eligible individuals and other permitted customer categories may open an FD subject to Vishal Pandey Bank's account-opening requirements.
+
+MINIMUM DEPOSIT
+
+The minimum amount required to open an FD depends on the selected FD product.
+
+TENURE
+
+Customers can select from available FD tenures offered by the bank.
+
+Interest rates can differ between tenures.
+
+INTEREST CALCULATION
+
+Interest is calculated according to the applicable Vishal Pandey Bank FD product rules.
+
+The final maturity amount depends on:
+- Principal
+- Tenure
+- Applicable interest rate
+- Interest calculation frequency
+- Selected payout option
+- Applicable deductions or taxes
+
+INTEREST PAYOUT OPTIONS
+
+Depending on the product, customers may select:
+
+1. Cumulative FD
+
+Interest is accumulated and paid along with the principal at maturity.
+
+2. Non-Cumulative FD
+
+Interest is paid periodically according to the selected payout frequency.
+
+PREMATURE WITHDRAWAL
+
+Customers may request premature closure of an FD.
+
+Premature closure may result in:
+- Reduced interest
+- Applicable penalty
+- Different interest calculation
+- Other applicable charges
+
+The exact impact depends on the FD product terms.
+
+FD RENEWAL
+
+Customers may choose automatic renewal if supported by the selected FD product.
+
+At maturity, the deposit may:
+- Renew automatically
+- Transfer principal and interest to the linked account
+- Follow another maturity instruction selected by the customer
+
+FD RECEIPT
+
+Customers should retain the FD confirmation/receipt details for their records.
+
+LOAN AGAINST FD
+
+Eligible customers may be able to obtain a loan or overdraft against an FD, subject to product eligibility and applicable terms.
+
+TAXATION
+
+Interest earned on an FD may have tax implications. Applicable tax deductions and reporting depend on prevailing regulations and the customer's circumstances.
+
+IMPORTANT
+
+FD interest rates are subject to change. The rate applicable to a new FD depends on the rate available at the time the deposit is created.
+
+IMPORTANT NOTE
+
+This document contains fictional Vishal Pandey Bank product information for RAG training and does not represent an actual bank's FD rates or terms.
