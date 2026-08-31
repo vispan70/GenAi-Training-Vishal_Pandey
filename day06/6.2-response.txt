@@ -1,0 +1,168 @@
+Graph Router
+Type 'exit' to stop.
+
+You: You: What's my account balance?
+
+Raw model response:
+{
+    "intent": "balance_enquiry",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: balance_enquiry
+Confidence: 0.95
+Response: {'status': 'ok', 'action': 'balance_checked', 'balance': '₹25,430.50'}
+Handover: None
+--------------------------------
+
+You: You: I lost my debit card, block it now!
+
+Raw model response:
+{
+    "intent": "card_hotlist",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: card_hotlist
+Confidence: 0.95
+Response: {'status': 'ok', 'action': 'card_hotlisted', 'ref': 'HTL-1029'}
+Handover: None
+--------------------------------
+
+You: You: Email me my statement for July
+
+Raw model response:
+{
+    "intent": "statement_request",
+    "entities": {
+        "period": "July"
+    },
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: statement_request
+Confidence: 0.95
+Response: {'status': 'ok', 'action': 'statement_requested', 'ref': 'STM-2048'}
+Handover: None
+--------------------------------
+
+You: You: My UPI payment failed but money was deducted
+
+Raw model response:
+{
+    "intent": "upi_issue",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: upi_issue
+Confidence: 0.95
+Response: Please check your UPI PIN and try again.
+Handover: None
+--------------------------------
+
+You: You: Hi, good morning!
+
+Raw model response:
+{
+    "intent": "small_talk",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: small_talk
+Confidence: 0.95
+Response: Hello! How can I help you with your banking request?
+Handover: None
+--------------------------------
+
+You: Which mutual fund should I invest in?
+
+Raw model response:
+{
+    "intent": "out_of_scope",
+    "entities": {},
+    "confidence": 1.0
+}
+
+--------------------------------
+Intent: out_of_scope
+Confidence: 1.0
+Response: Your request has been handed over to a customer-service representative.
+Handover: {'reason': 'Request is out of scope', 'intent': 'out_of_scope', 'entities': {}, 'summary_for_agent': 'Which mutual fund should I invest in?'}
+--------------------------------
+
+You: What's my account balance?
+
+Raw model response:
+{
+    "intent": "balance_enquiry",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: balance_enquiry
+Confidence: 0.95
+Response: {'status': 'ok', 'action': 'balance_checked', 'balance': '₹25,430.50'}
+Handover: None
+--------------------------------
+
+You: I lost my debit card, block it now!
+
+Raw model response:
+{
+    "intent": "card_hotlist",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: card_hotlist
+Confidence: 0.95
+Response: {'status': 'ok', 'action': 'card_hotlisted', 'ref': 'HTL-1029'}
+Handover: None
+--------------------------------
+
+You: I need last 3 months' transactions
+
+Raw model response:
+{
+    "intent": "statement_request",
+    "entities": {
+        "period": "last 3 months"
+    },
+    "confidence": 0.9
+}
+
+--------------------------------
+Intent: statement_request
+Confidence: 0.9
+Response: {'status': 'ok', 'action': 'statement_requested', 'ref': 'STM-2048'}
+Handover: None
+--------------------------------
+
+You: My UPI payment failed but money was deducted
+
+Raw model response:
+{
+    "intent": "upi_issue",
+    "entities": {},
+    "confidence": 0.95
+}
+
+--------------------------------
+Intent: upi_issue
+Confidence: 0.95
+Response: Please check your UPI PIN and try again.
+Handover: None
+--------------------------------
+
+You: 

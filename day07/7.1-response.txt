@@ -1,0 +1,72 @@
+(venv) PS C:\Users\VishalPandey\Desktop\ACC Task\genai-training-vishal_pandey\day07> python tools_agent.py
+C:\Users\VishalPandey\Desktop\ACC Task\genai-training-vishal_pandey\day07\tools_agent.py:218: LangGraphDeprecatedSinceV10: create_react_agent has been moved to `langchain.agents`. Please update your import to `from langchain.agents import create_agent`. Deprecated in LangGraph V1.0 to be removed in V2.0.
+  agent = create_react_agent(
+
+Banking ReAct Agent
+Type 'exit' to stop.
+
+You: What's the balance of ACC1001?
+
+================ AGENT EXECUTION ================
+
+AI TOOL CALL:
+Tool: get_balance
+Arguments: {'account_id': 'ACC1001'}
+
+TOOL RESULT:
+Account ACC1001 balance is ₹42,500.50.
+
+AGENT RESPONSE:
+The balance of ACC1001 is ₹42,500.50.
+
+You: Block my card ending 4412, I lost it.
+
+================ AGENT EXECUTION ================
+
+AI TOOL CALL:
+Tool: hotlist_card
+Arguments: {'card_last4': '4412', 'reason': 'lost'}
+
+TOOL RESULT:
+Card ending 4412 has been hotlisted successfully. Reason: lost. Reference: HTL-7042
+
+AGENT RESPONSE:
+Your card ending in 4412 has been successfully hotlisted due to being lost. The reference number for this action is HTL-7042.
+
+You: I lost my card ending 4412 — block it and then tell me my remaining balance in ACC1001.
+
+================ AGENT EXECUTION ================
+
+AI TOOL CALL:
+Tool: hotlist_card
+Arguments: {'card_last4': '4412', 'reason': 'lost'}
+
+Tool: get_balance
+Arguments: {'account_id': 'ACC1001'}
+
+TOOL RESULT:
+Card ending 4412 has been hotlisted successfully. Reason: lost. Reference: HTL-9839
+
+TOOL RESULT:
+Account ACC1001 balance is ₹42,500.50.
+
+AGENT RESPONSE:
+Your card ending 4412 has been hotlisted successfully. Reference number: HTL-9839. 
+
+Your remaining balance in account ACC1001 is ₹42,500.50.
+
+You: What's the balance of ACC9999?
+
+================ AGENT EXECUTION ================
+
+AI TOOL CALL:
+Tool: get_balance
+Arguments: {'account_id': 'ACC9999'}
+
+TOOL RESULT:
+Error: Account ACC9999 was not found.
+
+AGENT RESPONSE:
+I encountered an error while checking the balance for ACC9999: the account was not found. Please verify the account ID and try again.
+
+You: 
