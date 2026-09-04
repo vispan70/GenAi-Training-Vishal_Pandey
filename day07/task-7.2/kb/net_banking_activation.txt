@@ -1,0 +1,112 @@
+VISHAL PANDEY BANK
+Net Banking Activation and Login Guide
+
+Document Type: Digital Banking Guide
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+OVERVIEW
+
+Vishal Pandey Bank Net Banking allows eligible customers to access supported banking services through an internet-enabled device.
+
+AVAILABLE SERVICES
+
+Depending on account eligibility, customers may access:
+- Account balance
+- Account statements
+- Fund transfers
+- Beneficiary management
+- Bill payments
+- Debit card services
+- FD services
+- Profile management
+- Service requests
+
+ELIGIBILITY
+
+Customers with an eligible Vishal Pandey Bank account and registered contact information can request Net Banking activation.
+
+ACTIVATION PROCESS
+
+Step 1:
+Visit the official Vishal Pandey Bank Net Banking login or registration page.
+
+Step 2:
+Select the registration or first-time user option.
+
+Step 3:
+Enter the requested customer/account information.
+
+Step 4:
+Complete identity verification using the registered authentication method.
+
+Step 5:
+Create the required login credentials according to the bank's password policy.
+
+Step 6:
+Complete registration.
+
+Step 7:
+Log in using the newly created credentials.
+
+PASSWORD REQUIREMENTS
+
+Customers should create a strong password.
+
+A strong password should:
+- Be difficult to guess
+- Not contain easily identifiable personal information
+- Not be reused across multiple services
+- Be kept confidential
+
+LOGIN SECURITY
+
+Customers should:
+- Use only the official Vishal Pandey Bank website
+- Avoid banking through public or unsecured computers
+- Log out after completing banking activities
+- Keep operating systems and browsers updated
+
+OTP SECURITY
+
+OTP should never be shared with another person.
+
+Vishal Pandey Bank employees will not ask customers to disclose OTPs over unsolicited calls.
+
+FORGOT PASSWORD
+
+If a customer forgets the Net Banking password, they should use the official password-reset process.
+
+The customer may be required to complete identity verification.
+
+ACCOUNT LOCKOUT
+
+Multiple unsuccessful login attempts may temporarily lock the account as a security measure.
+
+Customers should use the official account-unlock or password-reset process.
+
+SUSPICIOUS ACTIVITY
+
+If a customer suspects unauthorized access:
+
+1. Change the Net Banking password immediately.
+2. Block compromised cards if necessary.
+3. Review recent transactions.
+4. Contact Vishal Pandey Bank through an official support channel.
+5. Report unauthorized transactions promptly.
+
+IMPORTANT SECURITY RULE
+
+Never provide your:
+- Password
+- OTP
+- UPI PIN
+- Debit card PIN
+- CVV
+
+to anyone claiming to be a bank representative.
+
+IMPORTANT NOTE
+
+This is fictional Net Banking information created for the Vishal Pandey Bank RAG training project.

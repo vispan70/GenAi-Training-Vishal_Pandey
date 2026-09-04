@@ -1,0 +1,117 @@
+VISHAL PANDEY BANK
+UPI Limits and Transaction Failures
+
+Document Type: UPI Support Guide
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+UPI OVERVIEW
+
+Unified Payments Interface (UPI) allows eligible Vishal Pandey Bank customers to send and receive money using supported UPI applications.
+
+FICTIONAL DAILY UPI LIMIT
+
+For this training knowledge base, Vishal Pandey Bank's standard fictional UPI transaction limit is:
+
+₹1,00,000 per customer per day.
+
+This limit applies to eligible standard UPI transactions and may be subject to additional transaction-specific or security restrictions.
+
+IMPORTANT
+
+The applicable limit may vary based on:
+- Transaction type
+- Risk controls
+- UPI application
+- Customer profile
+- Bank policy
+- Regulatory requirements
+
+TRANSACTION LIMIT TYPES
+
+A UPI transaction can be restricted by:
+- Per-transaction limit
+- Daily transaction limit
+- Available account balance
+- Security/risk controls
+- Beneficiary restrictions
+
+COMMON UPI FAILURE REASONS
+
+1. INSUFFICIENT BALANCE
+
+The transaction may fail if the linked account does not contain sufficient available funds.
+
+2. DAILY LIMIT EXCEEDED
+
+A transaction may fail when the customer has already reached the applicable daily UPI limit.
+
+3. PER-TRANSACTION LIMIT EXCEEDED
+
+A transaction may fail if the amount is greater than the permitted amount for that transaction type.
+
+4. INCORRECT UPI PIN
+
+Entering an incorrect UPI PIN can cause transaction failure.
+
+Repeated incorrect attempts may result in temporary restrictions.
+
+5. BANK SERVER UNAVAILABLE
+
+Temporary technical issues at the bank or payment network may prevent a transaction from completing.
+
+6. BENEFICIARY ISSUE
+
+A payment may fail if the recipient's UPI ID or account details are incorrect or unavailable.
+
+7. NETWORK CONNECTIVITY
+
+Poor internet connectivity can interrupt payment processing.
+
+8. ACCOUNT RESTRICTION
+
+A transaction may fail if the linked account has a restriction, hold, or other operational limitation.
+
+WHAT TO DO AFTER A FAILED UPI TRANSACTION
+
+Step 1:
+Check whether the amount was debited.
+
+Step 2:
+Check the transaction status in the UPI application.
+
+Step 3:
+Do not immediately repeat the payment if the transaction status is still processing.
+
+Step 4:
+Wait for the transaction status to update.
+
+Step 5:
+If the amount was debited but the recipient did not receive it, raise a complaint using the official transaction-support process.
+
+DUPLICATE PAYMENT
+
+Customers should avoid repeatedly sending the same payment when the first transaction is pending.
+
+Check the transaction status before attempting another payment.
+
+UPI PIN SECURITY
+
+The UPI PIN should never be shared with another person.
+
+The UPI PIN is used to authorize payments and should be entered only on the appropriate secure payment screen.
+
+CUSTOMER SUPPORT
+
+For unresolved UPI issues, customers should provide:
+- Transaction reference number
+- Date and approximate time
+- Amount
+- UPI ID, where applicable
+- Transaction status
+- Relevant screenshots or details if requested
+
+IMPORTANT NOTE
+
+The ₹1,00,000 daily limit stated in this document is fictional and is intended only for the Vishal Pandey Bank RAG training project.

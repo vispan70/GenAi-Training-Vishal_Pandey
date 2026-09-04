@@ -1,0 +1,137 @@
+============================================================
+       CAPSTONE BANKING ASSISTANT
+============================================================
+Type 'exit' to stop.
+
+You: What is the UPI daily limit?
+
+--------------------------------------------------
+[CLASSIFIER NODE]
+Intent: upi_issue
+Confidence: 0.95
+--------------------------------------------------
+
+[ROUTER] Informational intent -> RAG
+
+[MULTI-QUERY RAG]
+Generated Queries:
+1. What is the daily transaction limit for UPI?
+2. UPI daily transfer limit details
+3. How much money can I send via UPI in a day?
+4. What is the UPI daily limit?
+
+[RAG NODE] Answer generated successfully.
+
+Bot: The UPI daily limit is ₹1,00,000 per customer per day.
+
+You: What is the balance of ACC1001?
+
+--------------------------------------------------
+[CLASSIFIER NODE]
+Intent: balance_enquiry
+Confidence: 0.95
+--------------------------------------------------
+
+[ROUTER] Transactional intent -> TOOLS
+
+[TOOLS NODE]
+Calling: get_balance(ACC1001)
+
+Bot: Your account balance for ACC1001 is ₹50,000.
+
+You: Show statement for ACC1001
+
+--------------------------------------------------
+[CLASSIFIER NODE]
+Intent: statement_request
+Confidence: 0.95
+--------------------------------------------------
+
+[ROUTER] Transactional intent -> TOOLS
+
+[TOOLS NODE]
+Calling: get_statement(ACC1001, recent transactions)
+
+Bot: Statement for ACC1001 (recent transactions):
+
+2026-08-01 | Salary Credit | +₹50,000
+2026-08-03 | Grocery Store | -₹2,500
+2026-08-05 | Electricity Bill | -₹1,800
+2026-08-10 | UPI Transfer | -₹5,000
+
+You: Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\VishalPandey\Desktop\ACC Task\genai-training-vishal_pandey\day07\task-7.2\graph\bot.py", line 912, in <module>
+    user_input = input(
+                 ~~~~~^
+        "\nYou: "
+        ^^^^^^^^^
+    ).strip()
+    ^
+KeyboardInterrupt
+(venv) PS C:\Users\VishalPandey\Desktop\ACC Task\genai-training-vishal_pandey\day07\task-7.2> python -m graph.bot
+
+============================================================
+       CAPSTONE BANKING ASSISTANT
+============================================================
+Type 'exit' to stop.
+
+You: My account is ACC1001
+
+--------------------------------------------------
+[CLASSIFIER NODE]
+Intent: account_information
+Confidence: 0.95
+--------------------------------------------------
+
+[ROUTER] Informational intent -> RAG
+
+[MULTI-QUERY RAG]
+Generated Queries:
+1. Account details for ACC1001
+2. Transaction history for account ACC1001
+3. Account balance inquiry for ACC1001
+4. My account is ACC1001
+
+[RAG NODE] Answer generated successfully.
+
+Bot: The information is not available in the knowledge base.
+
+You: What savings accounts do you offer?
+
+--------------------------------------------------
+[CLASSIFIER NODE]
+Intent: account_information
+Confidence: 0.95
+--------------------------------------------------
+
+[ROUTER] Informational intent -> RAG
+
+[MULTI-QUERY RAG]
+Generated Queries:
+1. savings accounts options
+2. types of savings accounts available
+3. features of savings accounts offered
+4. What savings accounts do you offer?
+
+[RAG NODE] Answer generated successfully.
+
+Bot: The information is not available in the knowledge base.
+
+You: And what's my balance?
+
+--------------------------------------------------
+[CLASSIFIER NODE]
+Intent: balance_enquiry
+Confidence: 0.95
+--------------------------------------------------
+
+[ROUTER] Transactional intent -> TOOLS
+
+[TOOLS NODE]
+Calling: get_balance(ACC1001)
+
+Bot: Your account balance for ACC1001 is ₹50,000.
+
+You: 

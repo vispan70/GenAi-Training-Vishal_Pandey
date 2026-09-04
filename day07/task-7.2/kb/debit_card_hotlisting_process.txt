@@ -1,0 +1,124 @@
+VISHAL PANDEY BANK
+Debit Card Hotlisting and Blocking Process
+
+Document Type: Security Procedure
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+PURPOSE
+
+Hotlisting is the process of permanently or temporarily blocking a debit card to prevent unauthorized transactions.
+
+Customers should immediately hotlist their debit card if it is:
+- Lost
+- Stolen
+- Suspected to be compromised
+- Used for an unauthorized transaction
+- Retained by an ATM
+
+IMMEDIATE ACTION
+
+If a customer discovers that a debit card is lost or stolen, the card should be blocked immediately.
+
+AVAILABLE HOTLISTING CHANNELS
+
+Customers may use supported Vishal Pandey Bank channels:
+
+1. Mobile Banking
+2. Net Banking
+3. Customer Support
+4. Authorized Branch
+5. Other officially supported banking channels
+
+MOBILE BANKING PROCESS
+
+Typical process:
+
+Step 1:
+Log in to Vishal Pandey Bank Mobile Banking.
+
+Step 2:
+Open the Cards section.
+
+Step 3:
+Select Debit Card.
+
+Step 4:
+Select the affected card.
+
+Step 5:
+Choose Block or Hotlist Card.
+
+Step 6:
+Select the reason for blocking.
+
+Step 7:
+Confirm the request using the required authentication method.
+
+Step 8:
+Save the confirmation/reference number.
+
+NET BANKING PROCESS
+
+Step 1:
+Log in to Vishal Pandey Bank Net Banking.
+
+Step 2:
+Navigate to Cards or Debit Card Services.
+
+Step 3:
+Select the debit card.
+
+Step 4:
+Choose Block/Hotlist.
+
+Step 5:
+Confirm the request.
+
+Step 6:
+Record the reference number displayed after successful submission.
+
+CUSTOMER SUPPORT
+
+Customers can contact the official Vishal Pandey Bank customer-support channel and request immediate card blocking.
+
+The customer may be asked to provide information required to verify their identity.
+
+BRANCH PROCESS
+
+Customers may visit an authorized Vishal Pandey Bank branch and request debit-card blocking.
+
+Identity verification may be required.
+
+UNAUTHORIZED TRANSACTION
+
+If a customer notices an unauthorized transaction:
+
+1. Block the debit card immediately.
+2. Report the transaction through an official Vishal Pandey Bank channel.
+3. Record the complaint/reference number.
+4. Provide supporting information if requested.
+5. Monitor the account for additional unauthorized transactions.
+
+CARD REPLACEMENT
+
+After hotlisting, customers may request a replacement debit card.
+
+Replacement fees, delivery timelines, and eligibility depend on the applicable card terms.
+
+IMPORTANT SECURITY RULES
+
+Customers must never share:
+- OTP
+- PIN
+- CVV
+- ATM PIN
+- Internet banking password
+- Mobile banking password
+
+Do not wait to investigate the loss before blocking the card.
+
+IMPORTANT NOTE
+
+This is fictional banking-process information created for the Vishal Pandey Bank knowledge-base project.

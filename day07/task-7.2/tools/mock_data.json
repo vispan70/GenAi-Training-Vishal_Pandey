@@ -1,0 +1,37 @@
+{
+    "accounts": [
+        {
+            "account_id": "ACC1001",
+            "name": "Asha",
+            "balance": 50000,
+            "cards": [
+                {
+                    "last4": "1234",
+                    "status": "active"
+                }
+            ]
+        },
+        {
+            "account_id": "ACC1002",
+            "name": "Rahul",
+            "balance": 75000,
+            "cards": [
+                {
+                    "last4": "5678",
+                    "status": "active"
+                }
+            ]
+        },
+        {
+            "account_id": "ACC1003",
+            "name": "Priya",
+            "balance": 30000,
+            "cards": [
+                {
+                    "last4": "9012",
+                    "status": "active"
+                }
+            ]
+        }
+    ]
+}

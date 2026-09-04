@@ -1,0 +1,140 @@
+VISHAL PANDEY BANK
+Customer Grievance and Escalation Matrix
+
+Document Type: Customer Support Procedure
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+PURPOSE
+
+The Vishal Pandey Bank grievance process provides customers with a structured method for reporting unresolved banking issues.
+
+Customers should first attempt to resolve the issue through the bank's standard customer-support channels.
+
+LEVEL 1 - CUSTOMER SUPPORT
+
+The first level of escalation is Vishal Pandey Bank Customer Support.
+
+Customers can report:
+- Transaction failures
+- Account-service issues
+- Debit-card problems
+- UPI issues
+- Net Banking issues
+- General service complaints
+
+Customers should provide:
+- Customer/account reference where appropriate
+- Transaction reference number
+- Date and time
+- Amount involved
+- Description of the issue
+- Relevant supporting information
+
+A complaint/reference number should be retained for future follow-up.
+
+LEVEL 2 - BRANCH OR SERVICE MANAGER
+
+If the issue is not resolved through standard customer support, the customer may escalate the complaint to the relevant Vishal Pandey Bank branch or service manager.
+
+The customer should provide the original complaint/reference number.
+
+LEVEL 3 - GRIEVANCE REDRESSAL OFFICER
+
+If the complaint remains unresolved after the applicable first-level process, it can be escalated to the designated Vishal Pandey Bank Grievance Redressal Officer.
+
+The escalation should include:
+- Original complaint number
+- Previous communication
+- Details of the unresolved issue
+- Expected resolution
+- Supporting documents, if relevant
+
+LEVEL 4 - PRINCIPAL NODAL / SENIOR GRIEVANCE AUTHORITY
+
+For complaints that remain unresolved after the previous stages, the customer may escalate the matter to the bank's designated senior grievance authority according to the applicable grievance policy.
+
+The escalation should reference all previous complaint numbers.
+
+ESCALATION MATRIX
+
+Level 1:
+Customer Support
+Purpose: Initial complaint registration and basic resolution.
+
+Level 2:
+Branch/Service Manager
+Purpose: Review unresolved service issues.
+
+Level 3:
+Grievance Redressal Officer
+Purpose: Formal grievance review.
+
+Level 4:
+Senior/Principal Grievance Authority
+Purpose: Final internal escalation within the bank.
+
+COMPLAINT INFORMATION
+
+A well-documented complaint should include:
+
+1. Customer name
+2. Registered contact details
+3. Account/service involved
+4. Transaction reference, if applicable
+5. Date and time of incident
+6. Amount involved, if applicable
+7. Description of the issue
+8. Previous complaint/reference number
+9. Requested resolution
+10. Supporting documents
+
+UPI COMPLAINTS
+
+For UPI complaints, customers should include:
+- UPI transaction reference
+- Transaction date
+- Amount
+- Recipient details where applicable
+- Transaction status
+- Whether the account was debited
+
+UNAUTHORIZED TRANSACTIONS
+
+For suspected unauthorized transactions:
+
+1. Immediately secure or block the affected card/account channel.
+2. Report the transaction through an official Vishal Pandey Bank channel.
+3. Obtain a complaint/reference number.
+4. Provide supporting details.
+5. Monitor subsequent transactions.
+
+IMPORTANT SECURITY WARNING
+
+Customers should never include confidential authentication information in a complaint.
+
+Do not provide:
+- UPI PIN
+- ATM PIN
+- CVV
+- OTP
+- Net Banking password
+- Mobile Banking password
+
+The bank does not require these credentials to register a normal service complaint.
+
+ESCALATION BEST PRACTICE
+
+Customers should retain:
+- Complaint numbers
+- Emails or written communication
+- Transaction references
+- Dates of communication
+- Responses received from the bank
+
+This information helps the bank investigate unresolved complaints efficiently.
+
+IMPORTANT NOTE
+
+This grievance matrix is fictional and created for the Vishal Pandey Bank RAG training project. Actual banking grievance procedures and regulatory escalation mechanisms may differ.

@@ -1,0 +1,127 @@
+VISHAL PANDEY BANK
+Personal Loan Eligibility
+
+Document Type: Loan Product Guide
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+OVERVIEW
+
+A personal loan is an unsecured loan that eligible customers may use for permitted personal financial requirements.
+
+Because the loan is unsecured, collateral is generally not required. Approval is subject to the bank's credit and risk assessment.
+
+BASIC ELIGIBILITY
+
+A customer may be considered for a personal loan based on:
+
+- Age
+- Income
+- Employment status
+- Employment stability
+- Existing financial obligations
+- Credit history
+- Credit score
+- Banking relationship
+- Repayment capacity
+- Internal risk assessment
+
+AGE
+
+The applicant must satisfy Vishal Pandey Bank's applicable minimum and maximum age criteria at the time of application and/or maturity.
+
+INCOME
+
+Applicants must demonstrate sufficient and verifiable income.
+
+Income documents may include:
+- Salary slips
+- Bank statements
+- Income tax documents
+- Employment information
+- Other income evidence requested by the bank
+
+EMPLOYMENT
+
+Salaried applicants may need to demonstrate stable employment.
+
+Self-employed applicants may need to provide business and income documentation.
+
+CREDIT HISTORY
+
+The bank may review the applicant's credit history and repayment behavior.
+
+A strong repayment history can improve the applicant's credit profile, but approval is never guaranteed solely based on credit score.
+
+EXISTING LOANS
+
+Existing loan and credit-card obligations are considered when evaluating repayment capacity.
+
+A customer with substantial existing obligations may receive a lower eligible amount or may not qualify.
+
+LOAN AMOUNT
+
+The approved loan amount depends on the applicant's:
+- Income
+- Repayment capacity
+- Credit profile
+- Existing obligations
+- Employment/business stability
+- Bank risk assessment
+
+INTEREST RATE
+
+The applicable interest rate depends on the loan product and customer risk assessment.
+
+Interest rates may vary between applicants.
+
+DOCUMENTS
+
+Applicants may be asked for:
+- Identity proof
+- Address proof
+- PAN/tax identification
+- Income proof
+- Bank statements
+- Employment/business documents
+- Additional documents required for verification
+
+APPLICATION PROCESS
+
+Step 1:
+Submit a personal-loan application.
+
+Step 2:
+Provide required identity and income documents.
+
+Step 3:
+Complete verification.
+
+Step 4:
+The bank evaluates eligibility and creditworthiness.
+
+Step 5:
+If approved, the customer receives the applicable loan terms.
+
+Step 6:
+After acceptance and completion of required formalities, the loan may be disbursed.
+
+REASONS FOR POSSIBLE REJECTION
+
+A personal-loan application may be rejected because of:
+- Insufficient income
+- High existing debt
+- Poor credit history
+- Incomplete documentation
+- Unstable employment
+- Inability to verify information
+- Internal risk criteria
+
+IMPORTANT
+
+Meeting basic eligibility criteria does not guarantee loan approval.
+
+IMPORTANT NOTE
+
+All eligibility criteria in this document are fictional and created for the Vishal Pandey Bank RAG training project.

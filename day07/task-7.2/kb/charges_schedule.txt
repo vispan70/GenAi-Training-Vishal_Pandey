@@ -1,0 +1,92 @@
+VISHAL PANDEY BANK
+Indicative Charges Schedule
+
+Document Type: Banking Charges Reference
+Bank: Vishal Pandey Bank
+Version: 1.0
+Effective Date: 2026-01-01
+
+OVERVIEW
+
+This document provides fictional indicative charges for selected Vishal Pandey Bank services.
+
+Charges can vary depending on the customer's product, account type, transaction type, channel, and applicable terms.
+
+SAVINGS ACCOUNT
+
+Minimum-balance non-maintenance:
+Charges may apply to account variants that have a minimum-balance requirement.
+
+Account statement:
+Digital statements may be provided at no charge. Physical or special statement requests may attract applicable charges.
+
+DEBIT CARD
+
+Debit card replacement:
+A replacement fee may apply for lost, stolen, damaged, or expired cards depending on the card variant.
+
+ATM TRANSACTIONS
+
+ATM transactions may be subject to applicable transaction limits and charges.
+
+Charges can depend on:
+- Vishal Pandey Bank ATM usage
+- Other-bank ATM usage
+- Transaction type
+- Number of transactions
+- Account variant
+
+FUND TRANSFER
+
+Certain fund-transfer services may have applicable charges depending on:
+- Transfer method
+- Transaction type
+- Customer account type
+
+UPI
+
+Standard eligible UPI transactions are generally intended to be available through supported channels without a customer-facing transaction fee.
+
+However, specific services or exceptional transaction types may have separate charges according to applicable terms.
+
+CREDIT CARD
+
+Credit-card charges may include:
+- Annual fee
+- Joining fee
+- Late-payment fee
+- Cash withdrawal fee
+- Foreign currency transaction fee
+- Interest on outstanding balances
+- Over-limit charges where applicable
+
+The applicable fee depends on the specific credit-card variant.
+
+PERSONAL LOAN
+
+Loan-related charges may include:
+- Processing fee
+- Documentation charges
+- Late-payment charges
+- Prepayment/foreclosure charges where applicable
+- Other applicable service charges
+
+FIXED DEPOSIT
+
+Premature closure of an FD may result in a reduced interest rate or applicable penalty according to the selected product terms.
+
+NET BANKING
+
+Standard digital account services may be offered without a separate service charge, while selected transactions or special requests may attract charges.
+
+CHARGE DISCLOSURE
+
+Customers should review the applicable charges before using a paid service.
+
+The charge applicable to a transaction is determined by the product and tariff applicable at the time the transaction is processed.
+
+IMPORTANT
+
+This document intentionally uses general and fictional charges rather than claiming to represent actual Vishal Pandey Bank fees.
+
+For the RAG training project, the assistant should answer using the information contained in the knowledge base and should clearly state when a specific charge is not available in the provided documentation.
